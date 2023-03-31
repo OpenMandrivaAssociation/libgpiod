@@ -4,7 +4,7 @@
 
 Name:		libgpiod
 Version:	1.6.3
-Release:	1
+Release:	2
 License:	LGPLv3+
 Source0:	https://git.kernel.org/pub/scm/libs/libgpiod/libgpiod.git/snapshot/libgpiod-%{version}.tar.gz
 Group:		System
